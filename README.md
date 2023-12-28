@@ -1,6 +1,6 @@
 # Car Models Fetcher
 
-This JavaScript code interacts with an API endpoint (API_URL_HERE) to fetch and display car models associated with a specific car brand when a button is clicked.
+This JavaScript code is designed to retrieve car models associated with a specific car brand from an API endpoint and dynamically display them when a button is clicked.
 
 ## Overview
 
