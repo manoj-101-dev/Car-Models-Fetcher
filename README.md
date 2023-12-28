@@ -23,4 +23,4 @@ This JavaScript snippet is designed to fetch car models from an API endpoint and
 
 ## Live Site
 
-The live site for this project can be accessed [Click Here]().
+The live site for this project can be accessed [Click Here](https://car-models-fetcher.vercel.app/).
